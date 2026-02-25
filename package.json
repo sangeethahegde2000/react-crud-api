@@ -1,0 +1,11 @@
+{
+  "name": "react-crud-api",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
